@@ -64,7 +64,12 @@ This section tracks the daily assignments and materials from the course.
 
 ### Day 4 (Nov 12, 2025)
 
-  * Assignments and materials will be added upon release.
+  * **Topics** : Focuses on agent quality assurance using a holistic evaluation framework. Covers the technical foundation of Observability (Logs, Traces, Metrics) and scalable feedback loops like LLM-as-a-Judge and Human-in-the-Loop (HITL).
+  * **Whitepaper:** [Agent Quality](https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google/blob/0ed65af3a6bfe8d17e281b1618233e9f6791cd75/Day%204/whitepaper/Day_4.pdf)
+  * **Podcast:** [Unit 4 Summary (via NotebookLM)](https://www.youtube.com/watch?v=LFQRy-Ci-lk)
+  * **Codelabs (Kaggle):**
+    1.  [Implement observability to help you debug your agents.](https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google/blob/0ed65af3a6bfe8d17e281b1618233e9f6791cd75/Day%204/notebooks/day-4a-agent-observability.ipynb)
+    2.  [Evaluate your agents.](https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google/blob/0ed65af3a6bfe8d17e281b1618233e9f6791cd75/Day%204/notebooks/day-4b-agent-evaluation.ipynb)
 
 ### Day 5 (Nov 13, 2025)
 
